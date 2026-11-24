@@ -1,0 +1,12 @@
+[project]
+name = "my-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "nltk>=3.10.4",
+    "numpy>=2.4.6",
+    "pydantic>=2.14.1",
+    "torch>=2.14.1",
+]
